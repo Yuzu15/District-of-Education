@@ -146,6 +146,7 @@ li{
     position:fixed;
     z-index: 13;
     transition:all .4s;
+    display: block;
 
 }
 
@@ -218,7 +219,12 @@ li{
 
 /*meinの設定*/
 
-
+#main{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 #main-title-1{
     font-size: 25px;
@@ -825,3 +831,13 @@ margin-right: -17px;
     margin-top: 100px;
 
 }
+
+
+@media(max-width:768px){
+    .hed-contact{
+        padding: -100px;
+
+    }
+    
+}
+   
