@@ -464,7 +464,7 @@ li{
 @media screen and (max-width:768px){
     .about-des{
        font-size: 13px;
-       font-weight: 600;
+       font-weight: 800;
         text-align: left;
         margin-left: 40px;
         margin-right: 40px;
@@ -583,7 +583,7 @@ li{
 @media screen and (max-width:768px){
     .sub-description{
         font-size: 13px;
-        font-weight: 600;
+        font-weight: 800;
         text-align: left;
         margin-left: 40px;
         margin-right: 40px;
@@ -677,7 +677,7 @@ li{
 }
 .menter-title{
     font-size:20px;
-    font-weight: 450;
+    font-weight: 700;
 }
 
 
@@ -779,6 +779,7 @@ margin-right: 200px;
 @media screen and (max-width:768px){
        .menter-text{
        text-align: left;
+       font-weight: 700;
 
     }   
 }
@@ -1575,6 +1576,13 @@ margin-right: -17px;
     height: 100%;
 
 }
+@media screen and (max-width:768px){
+       #footer{
+       margin-bottom: 0;
+    }   
+        
+}
+
 
 #copy{
     display: flex;
