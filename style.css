@@ -14,7 +14,7 @@ body{
     padding: 0;
     background-color:#fff;
     overflow-x: hidden;
-    font-family: "Yugothic";
+    font-family: "Yu Gothic", "遊ゴシック体","YuGothic","Hiragino Kaku Gothic ProN",Meirio,sans-serif;
     
 }
 
@@ -1591,4 +1591,5 @@ margin-right: -17px;
     justify-content: center;
     flex-direction: column;
 }
+
 
