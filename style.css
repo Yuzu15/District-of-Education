@@ -463,7 +463,6 @@ li{
 
 .about-des{
     text-align: center;
-    line-height: 2.5;
     font-size: 15px;
     font-weight: 500;
 }
@@ -1652,4 +1651,5 @@ margin-right: -17px;
     justify-content: center;
     flex-direction: column;
 }
+
 
